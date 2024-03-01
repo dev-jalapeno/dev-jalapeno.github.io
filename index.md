@@ -1,5 +1,7 @@
 ---
-title: Alejandro's Resume
+title: Resume
+subtitle: A Comp. Sci. Co-op Student and Aspiring Entrepreneur
+cover-img: /assets/splash.png
 ---
 
 # Alejandro Labra
