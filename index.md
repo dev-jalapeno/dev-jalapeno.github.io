@@ -2,18 +2,19 @@
 title: Resume
 subtitle: A Comp. Sci. Co-op Student and Aspiring Entrepreneur
 cover-img: /assets/splash.png
+nav-short: true
 ---
 
 # Alejandro Labra
 Computer Science Co-op Student
 
-**Visit My Online Profile**  
-[labra.ca/profile](http://labra.ca/profile)
+ 
+
 
 |                |                |
 | -------------- | -------------- |
-| **Phone:** (204) 963-7027 | **Email:** [labraa@myumanitoba.ca](mailto:labraa@myumanitoba.ca) |
-| **Website:** [labra.ca](http://labra.ca) | **LinkedIn:** [linkedin.com/in/alejandro-labra](https://linkedin.com/in/alejandro-labra) |
+| **Visit My Online Profile**  | **Website:** [labra.ca](http://labra.ca) |
+| [labra.ca/profile](http://labra.ca/profile) | **LinkedIn:** [linkedin.com/in/alejandro-labra](https://linkedin.com/in/alejandro-labra) |
 
 
 ## Experience
