@@ -30,7 +30,9 @@ Before we begin, the following things are required; there are links to help you 
 This will be the Markdown file which displays on your GitHub Page. We will name it `index.md` because web browsers look for the *Index* as the starting page for websites; it works the same way for GitHub Pages.
 
 1. Open your editor of choice, and create a file named `index.md`.
-2. Write out your resume in Markdown form. Check out Markdown resources in **[More Resources](#more-resources)** to see the powerful formatting options Markdown has, and to see an example of resume already in `.md` format.
+2. Write out your resume in Markdown form. 
+    - Check out Markdown resources in **[More Resources](#more-resources)** to see the powerful formatting options Markdown has, and to see an example of resume already in `.md` format.
+    - **Tip:** Press CTRL + SHIFT + V to see a live preview of the final Markdown product in VS Code.
 
 ![Step1](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/step1.gif)
 
@@ -92,7 +94,7 @@ I recommend the **[Beautiful Jekyll](https://github.com/daattali/beautiful-jekyl
     - If you found another theme on GitHub replace the end part with `username/theme-name`. These come from the end of the URL from the theme's repository page.
 3. Save and upload this file to your repository, as you did in **Step 4**.
 
-![Step7](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/step7.png)
+![Step7](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/step7.gif)
 
 > Etter states Jekyll is the most popular static website generator, especially for the purposes of documentation; it's flexible, adaptable, and lightweight. Its toolset includes features that elevate documentation, such as nested navigation menus, and easily-accessable configuration through it's global and per-document files, in _config.yml and the header of the file respectively.
 
