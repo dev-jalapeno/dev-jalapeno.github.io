@@ -53,7 +53,7 @@ Now we need to create a repository; a project that acts like an online folder, w
 ### 4. Upload your Resume `(index.md)`
 Next, we will upload the resume file we created. 
 
-**IMPORTANT!** Ensure your resume file is named `resume.md`, or else your resume won't display properly.
+**IMPORTANT!** Ensure your resume file is named `index.md`, or else your resume won't display properly.
 
 Click <u>**uploading an existing file**</u> and drag your file into the window. If you can't find this button, go to `https://github.com/username/username.github.io/upload`, once again replacing `username` with your username.
 
