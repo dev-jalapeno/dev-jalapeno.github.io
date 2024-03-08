@@ -92,7 +92,7 @@ I recommend the **[Beautiful Jekyll](https://github.com/daattali/beautiful-jekyl
     - If you found another theme on GitHub replace the end part with `username/theme-name`. These come from the end of the URL from the theme's repository page.
 3. Save and upload this file to your repository, as you did in **Step 4**.
 
-![Step1](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/step7.png)
+![Step7](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/step7.png)
 
 > Etter states Jekyll is the most popular static website generator, especially for the purposes of documentation; it's flexible, adaptable, and lightweight. Its toolset includes features that elevate documentation, such as nested navigation menus, and easily-accessable configuration through it's global and per-document files, in _config.yml and the header of the file respectively.
 
