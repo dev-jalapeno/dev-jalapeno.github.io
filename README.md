@@ -10,7 +10,7 @@ We will be using Markdown, a Markdown Editor (VS Code is our choice), and GitHub
 - **[Instructions](#instructions)**
 - **[More Resources](#more-resources)**
 - **[Authors & Acknowledgements](#authors--acknowledgements)**
-- - **[Authors & Acknowledgements](#frequently-asked-questions-(FAQs))**
+- **[Frequently Asked Questions (FAQs)](#frequently-asked-questions-(FAQs))**
 
 
 ## Prerequisites
