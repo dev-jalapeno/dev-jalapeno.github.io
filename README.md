@@ -80,6 +80,8 @@ Your resume is now hosted using GitHub Pages. You can visit it at `https://usern
 
 Congradualations, you just hosted your resume online!
 
+![Resume](https://github.com/dev-jalapeno/dev-jalapeno.github.io/blob/main/assets/resume.gif)
+
 ### 7. (Optional) Configure & Customize (Jekyll)
 GitHub provides us a Markdown template by default. However, you can customize it using **themes**. This is powered by Jekyll, the static site generator that is creating our webpage.
 
