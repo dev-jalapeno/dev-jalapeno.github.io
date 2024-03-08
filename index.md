@@ -8,15 +8,6 @@ nav-short: true
 # Alejandro Labra
 Computer Science Co-op Student
 
- 
-
-
-|                |                |
-| -------------- | -------------- |
-| **Visit My Online Profile**  | **Website:** [labra.ca](http://labra.ca) |
-| [labra.ca/profile](http://labra.ca/profile) | **LinkedIn:** [linkedin.com/in/alejandro-labra](https://linkedin.com/in/alejandro-labra) |
-
-
 ## Experience
 
 ### **Labra Film Services**
@@ -53,13 +44,6 @@ Computer Science Co-op Student
 - Design and develop client websites using HTML, CSS, and WordPress.
 - Provide SEO tailoring to enhance online visibility and search rankings.
 
-### Contact
-
-- Phone: (204) 963-7027
-- Email: [labraa@myumanitoba.ca](mailto:labraa@myumanitoba.ca)
-- Website: [labra.ca](http://labra.ca)
-- LinkedIn: [linkedin.com/in/alejandro-labra](https://linkedin.com/in/alejandro-labra)
-
 # Education
 
 Bachelor of Science Comp. Science Major (Co-op) | *EST. Apr 2025*  
@@ -80,21 +64,25 @@ Won People’s Choice Award at the Lotlinx 2023 Hackathon as Lead UX/UI Designer
 - Git
 - GitLab CI/CD
 - Argo CD
+
 ## Web Development
 - HTML
 - CSS
 - SEO
 - Managed WordPress
+
 ## Solution Architecture
 - SparxEA
 - EA Data Miners
 - LeanIX
 - LeanIX API
+
 ## Collaboration
 - Slack
 -Microsoft Teams
 - Jira
 - Confluence
+
 #  Business Management
 - Project Leader
 - Employee Mgmt.
